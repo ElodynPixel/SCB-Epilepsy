@@ -1,1 +1,1 @@
-# SCB-Epilepsy
+# SmartHealthChatBoty-Epilepsy
